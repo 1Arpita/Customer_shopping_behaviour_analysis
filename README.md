@@ -10,7 +10,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
 Tools & Technologies Used- 
 
-Python (Pandas, NumPy, Matplotlib, Seaborn)
+Python (Pandas for data cleaning)
 SQL (PostgreSQL / MySQL / SQL Server)
 Power BI (Dashboard development)
 Jupyter Notebook (Data analysis & EDA)
